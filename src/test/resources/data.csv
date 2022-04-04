@@ -1,0 +1,4 @@
+registeredUserBonusUnderLimit,100060,true,30,
+registeredUserBonusOverLimit,100000060,true,500,
+unregisteredUserBonusUnderLimit,100060,false,10,
+unregisteredUserBonusOverLimit,100000060,false,500
